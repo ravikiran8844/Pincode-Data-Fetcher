@@ -1,0 +1,1 @@
+displays a postoffice data by entering a valid pincode
